@@ -1,0 +1,43 @@
+{
+  "project": "MENACE",
+  "collection_name": "MENACE — Genesis",
+  "status": "DESIGN_DRAFT_NOT_MINTED",
+  "chain": "XRPL Mainnet (planned)",
+  "nft_standard": "XLS-20",
+  "fungible_token": {
+    "name": "MENACE",
+    "reported_supply": "1000000000",
+    "issuer": "rDR84iroyGoS7a4BjfPZnfoERjpEUvhk1n",
+    "currency_code": null,
+    "verification_status": "user_provided_not_independently_verified"
+  },
+  "nft_issuance": {
+    "issuer": null,
+    "issuer_policy": "Recommend dedicated NFT issuer distinct from fungible token issuer",
+    "authorized_minter": null,
+    "nftoken_taxon": null,
+    "edition_supply": null,
+    "proposed_one_of_one_specials": 4,
+    "transfer_fee_bps": null,
+    "transferability": null,
+    "burn_authority": null,
+    "metadata_storage": "IPFS or Arweave (to be selected)",
+    "artwork_storage": "IPFS or Arweave (to be selected)"
+  },
+  "creative_rules": [
+    "One highly detailed cinematic 3D MENACE character is the focal point",
+    "One restrained street-art or optical-illusion background motif per NFT",
+    "Extensive zoomable detail with historically validated XRPL lore",
+    "Avoid busy collages and multiple artist influences in one background",
+    "Each character must be unique and compositionally coherent",
+    "Do not reproduce an artist's protected artwork or signature without permission",
+    "Use high-resolution source art and a final microdetail verification pass"
+  ],
+  "production": {
+    "suggested_master_resolution": "6144x6144 or higher",
+    "suggested_display_export": "2048x2048 minimum; 4096x4096 preferred",
+    "traits_review": "human art direction + uniqueness validation",
+    "lore_review": "verify all XRPL historic claims, exact dates and references before encoding",
+    "metadata_review": "validate image and attributes, CID, and immutable settings before mint"
+  }
+}

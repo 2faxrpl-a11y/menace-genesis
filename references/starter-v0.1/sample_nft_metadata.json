@@ -1,0 +1,20 @@
+{
+  "name": "MENACE Genesis #0001",
+  "description": "A meticulously crafted cinematic 3D character from MENACE Genesis on the XRP Ledger. Look closer: XRPL history is hidden in the details.",
+  "image": "ipfs://REPLACE_WITH_REAL_IMAGE_CID",
+  "external_url": "https://REPLACE_WITH_OFFICIAL_MENACE_WEBSITE",
+  "attributes": [
+    {"trait_type":"Character Family","value":"Goggle Punk"},
+    {"trait_type":"Face Material","value":"Cracked Porcelain"},
+    {"trait_type":"Eyes","value":"Neon X / Natural Eye"},
+    {"trait_type":"Mouth","value":"Crooked Grin"},
+    {"trait_type":"Headwear","value":"Worn Goggles"},
+    {"trait_type":"Outfit","value":"Torn Hoodie"},
+    {"trait_type":"Jewelry","value":"Metal Ear Hoops"},
+    {"trait_type":"Signature Mark","value":"Acid-Green Crown"},
+    {"trait_type":"Background Theme","value":"Cobalt Optical Maze"},
+    {"trait_type":"Lighting","value":"Cobalt Rim"},
+    {"trait_type":"Lore Depth","value":"Hidden"},
+    {"trait_type":"Rarity Tier","value":"Core"}
+  ]
+}

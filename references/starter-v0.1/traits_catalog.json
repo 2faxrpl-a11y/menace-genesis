@@ -1,0 +1,30 @@
+{
+  "version": "0.1-draft",
+  "collection": "MENACE — Genesis",
+  "trait_groups": [
+    {"trait_type":"Character Family","selection":"one","values":["Goggle Punk","Shadow Hood","Fang Beanie","Stitched Bunny","Chaos Pigtails","Street Reptile","Patchwork Bear","Horned Rebel","Skull Skater"]},
+    {"trait_type":"Face Material","selection":"one","values":["Cracked Porcelain","Weathered Clay","Distressed Leather","Prismatic Scales","Textured Fur","Fractured Bone","Ink-Stained Skin"]},
+    {"trait_type":"Eyes","selection":"one","values":["Neon X / Natural Eye","Double Neon X","Side-Eye Glow","Sleepy Amber","Wide-Eyed Chaos","Hollow Green","Iridescent"]},
+    {"trait_type":"Mouth","selection":"one","values":["Crooked Grin","Gold Grill","Serrated Fangs","Tongue Out","Underbite","Stitched Smile","Sharp Sneer"]},
+    {"trait_type":"Headwear","selection":"one","values":["Ripped Hood","Distressed Beanie","Skater Cap","Worn Goggles","Spiked Mohawk","Bunny Hood","None"]},
+    {"trait_type":"Outfit","selection":"one","values":["Torn Hoodie","Patchwork Varsity","Weathered Biker Jacket","Reinforced Street Vest","Oversized Puffer","Graffiti Workwear","Frayed Cloak"]},
+    {"trait_type":"Jewelry","selection":"zero_to_two","values":["Metal Ear Hoops","Safety Pin","Chunky Chain","Crown Pendant","Micro-Engraved Ring","Collar Studs","None"]},
+    {"trait_type":"Signature Mark","selection":"one","values":["Acid-Green Crown","Painted X","Stitched X","Scuffed MENACE M","Ink Scar","Micro-Coded Patch"]},
+    {"trait_type":"Background Theme","selection":"one","values":["Cobalt Optical Maze","Stencil Alley","Mural Concrete","Halftone Tunnel","Crown Wall","Chromatic Geometry","Noir Brickwork","Midnight Rooftop","Cosmic Launch"]},
+    {"trait_type":"Lighting","selection":"one","values":["Cobalt Rim","Magenta / Blue Split","Amber Streetlight","Moonlit Cyan","Acid-Green Edge","Soft Noir"]},
+    {"trait_type":"Lore Depth","selection":"one","values":["Hidden","Deep Hidden","Cipher Rare"]},
+    {"trait_type":"Rarity Tier","selection":"one","values":["Core","Uncommon","Rare","Epic","Special 1-of-1"]}
+  ],
+  "art_direction_notes": {
+    "background_rule": "Choose ONE original background treatment per piece. A distinct commissioned XRPL artist collaboration may replace the background theme. Never combine multiple artist imitations.",
+    "trait_weights": "TBD once total NFT supply is approved; do not automatically assume equal weighting",
+    "compatibility": "Hand-reviewed: e.g. fur with facial accessories, hood with ears, and eyes with goggles must fit without clipping",
+    "lore": "Do not expose answer to hidden clues in public trait names; store verified lore notes in a separate production manifest"
+  },
+  "special_one_of_one_candidates": [
+    {"slot":"Special 01","working_name":"Wigz Menace","concept":"Wild-eared gremlin in a torn red hood, with intricate fur, glowing red accents and a clean cobalt optical illusion","status":"concept artwork exists; name and rarity pending final approval"},
+    {"slot":"Special 02","working_name":null,"concept":null,"status":"TBD"},
+    {"slot":"Special 03","working_name":null,"concept":null,"status":"TBD"},
+    {"slot":"Special 04","working_name":null,"concept":null,"status":"TBD"}
+  ]
+}
